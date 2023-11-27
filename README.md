@@ -3,7 +3,7 @@
 Author: Papagrigoriou Vasileios Savvas (vpapagr@csd.auth.gr)
 
 ## Introduction
-This document outlines the exercises conducted in the AI class focusing on Logistic and Linear Regression. The exercises involve the analysis of a diabetes dataset using different regression techniques to understand and predict diabetes and blood pressure levels.
+This document outlines the exercises conducted in the ML class focusing on Logistic and Linear Regression. The exercises involve the analysis of a diabetes dataset using different regression techniques to understand and predict diabetes and blood pressure levels.
 
 ## Exercise 1: Logistic Regression
 
